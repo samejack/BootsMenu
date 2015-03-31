@@ -1,0 +1,29 @@
+{
+  "name": "jquery-boots-menu",
+  "title": "jQuery Boots Menu Plugin",
+  "description": "A Simple Bootstrap Nested Menu for jQuery Plugin.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/samejack/BootsMenu",
+  "author": {
+    "name": "SJ",
+    "url": "https://github.com/samejack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samejack/BootsMenu.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License Version 2.0",
+      "url": "https://github.com/samejack/BootsMenu/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-contrib-uglify": "0.1.1",
+    "grunt-contrib-cssmin": "^0.12.2"
+  },
+  "keywords": []
+}
