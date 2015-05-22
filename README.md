@@ -1,5 +1,7 @@
 # BootsMenu
-Simple Bootstrap Nested Menu for jQuery Plugin. Show [Demo](https://github.com/samejack/BootsMenu/demo/index.html).
+Simple Bootstrap Nested Menu for jQuery Plugin. Show [Demo](http://samejack.github.io/BootsMenu/demo/index.html).
+
+[Web Site and Download](http://samejack.github.io/BootsMenu)
 
 ## Starting
 Html Code
@@ -31,3 +33,5 @@ $(document).ready(function () {
 
 });
 ```
+# License
+Apache License 2.0
